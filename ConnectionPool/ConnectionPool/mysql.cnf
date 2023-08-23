@@ -1,0 +1,10 @@
+#数据库连接池的配置文件
+ip=172.20.22.131
+port=3306
+username=root
+dbname=chat
+password=1135tty*
+initSize=10
+maxSize=1024
+maxIdletime=60
+connectionTimeout=100

@@ -1,0 +1,21 @@
+﻿D:\Program Files\COMMUNITY\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(ConsoleApplication1.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  CommonConnectionPool.h
+  Connection.cpp
+  CommonConnectionPool.cpp
+d:\learning_tool\vs project\connectionpool\connectionpool\connectionpool\commonconnectionpool.cpp(62): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\learning_tool\vs project\connectionpool\connectionpool\connectionpool\commonconnectionpool.cpp(66): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\learning_tool\vs project\connectionpool\connectionpool\connectionpool\commonconnectionpool.cpp(53): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+  main.cpp
+d:\learning_tool\vs project\connectionpool\connectionpool\connectionpool\main.cpp(62): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+d:\learning_tool\vs project\connectionpool\connectionpool\connectionpool\main.cpp(76): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+d:\learning_tool\vs project\connectionpool\connectionpool\connectionpool\main.cpp(90): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+d:\learning_tool\vs project\connectionpool\connectionpool\connectionpool\main.cpp(104): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+  正在生成代码...
+d:\learning_tool\vs project\connectionpool\connectionpool\connectionpool\commonconnectionpool.cpp(97): warning C4715: “ConnectionPool::loadConfigFile”: 不是所有的控件路径都返回值
+x64\Debug\CommonConnectionPool.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+  ConnectionPool.vcxproj -> D:\Learning_Tool\VS PROJECT\connectionPool\ConnectionPool\ConnectionPool\x64\Debug\ConnectionPool.exe
